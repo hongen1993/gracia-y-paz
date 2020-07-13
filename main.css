@@ -988,7 +988,7 @@ display: none
 /* #6 Sidebar Takeaway*/
 .page-takeaway{
     background-size:cover;
-    height: 26em;
+    height: 29em;
     margin: 6em auto 1em;
     font-size: 1em;
 }
@@ -1010,7 +1010,7 @@ display: none
 /* #7 Page0contact*/
 .page-contact{
     width: 100%;
-    height: 45em;
+    height: 50em;
     padding-top: 0em;
     margin-bottom: 1.5em;
     text-align: center;
@@ -1078,7 +1078,7 @@ fieldset{
 }
 .gmap{
     background: rgba(255,255,255,0);
-    padding-top: 1.5em;
+    padding-top: 3.5em;
     padding-left: 0em;
 }
 iframe{
@@ -1254,7 +1254,7 @@ display: none
 /* #7 Page0contact*/
 .page-contact{
     width: 100%;
-    height: 45em;
+    height: 55em;
     padding-top: 0em;
     margin-bottom: 1.5em;
     text-align: center;
@@ -1322,7 +1322,7 @@ fieldset{
 }
 .gmap{
     background: rgba(255,255,255,0);
-    padding-top: 1.5em;
+    padding-top: 4.5em;
     padding-left: 0em;
 }
 iframe{
@@ -1498,8 +1498,8 @@ display: none
 /* #7 Page0contact*/
 .page-contact{
     width: 100%;
-    height: 45em;
-    padding-top: 0em;
+    height: 60em;
+    padding-top: 2em;
     margin-bottom: 1.5em;
     text-align: center;
     filter:brightness(80%);
@@ -1537,7 +1537,7 @@ form  h2{
     padding-top: 0.3em;
 }
 fieldset{
-  width: 14em;
+  width: 90%;
 }
 .form-label{
     font-size: 1em;
@@ -1566,7 +1566,7 @@ fieldset{
 }
 .gmap{
     background: rgba(255,255,255,0);
-    padding-top: 6.5em;
+    padding-top: 1.5em;
     padding-left: 0em;
 }
 iframe{
